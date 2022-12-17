@@ -44,7 +44,6 @@ El grupo de procesos debe incluir los siguientes elementos BPMN:
 1. Cambia el nombre de la tarea humana a *Validar solicitud*
 1. Agrega una puerta exclusiva *¿Solicitud aprobada?* Después de la tarea *Validar solicitud*:
     - Selecciona la tarea *Validar solicitud*, arrastra y suelta desde el icono contextual de la puerta lógica
-   ![creación de puerta lógica desde una tarea](images/ex01/ex1_02.png)
     - Una vez que se ha creado la puerta, usa el ícono contextual **caja de herramientas** (1) para cambiar su tipo a **Exclusivo** (2)
    ![Modificación del tipo de puerta lógica](images/ex01/ex1_03.png)
    - Cambia el nombre de la puerta a *¿Solicitud aprobada?*
