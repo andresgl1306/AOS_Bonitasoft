@@ -35,7 +35,7 @@ El grupo de procesos debe incluir los siguientes elementos BPMN:
     ![nuevo diagrama de proceso](images/ex01/ex1_10.png)
 
 1. Especifica el nombre del diagrama y el del proceso:
-    - Haz clic en el menú **Archivo / Renombrar Diagrama...** en la parte superior del Studio
+    - Haz clic en el menú **Archivo / Renombrar Diagrama...** en la parte superior del Studio o haz click derecho sobre el diagrama y pulsa en **Renombrar**
     - Ingresa *DiagramaSolicitudVacaciones* para el nombre del diagrama y *SolicitudVacaciones* para el del pool y *1.0.0* para la versión del diagrama y del pool
    ![ventana emergente para cambiar el nombre y la versión del diagrama y del pool](images/ex01/ex1_01.png)
 1. Cambia el nombre del evento de inicio a *Ingresar solicitud*:
